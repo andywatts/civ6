@@ -1,0 +1,22 @@
+Wonders
+	Tier 1
+		Colosseum; Games and recreation
+		Forbidden city; Renaissance
+		Chichen Itza;  Guilds; Only good with rainforest
+		Ruhr Valley; 
+	Tier 2
+		Potala Palace
+		Pyramids
+		Petra
+		Terracotta Army
+		Hagia Sofia
+		Oxford Uni
+		Big Ben (Atomic Era)
+		Eiffel Tower
+	Tier 3
+		Stonehenge
+		Colossus
+		Mahadobhi temple
+		Huey Teocalli
+		Alhambra (Medieval era)
+		Bolshoi theatre

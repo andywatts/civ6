@@ -1,0 +1,28 @@
+City States *Suzerains*
+	General
+		Science = good mid/late game
+		Industrial = Great
+		Gold = Good
+		Military = Great early game
+		Faith = weak
+	Great
+		Toronto
+		Geneva
+		Zanzibar
+	Good
+		Kumasi (Culture)
+		Brussels; Industrial
+		Kabul
+		Hattusa
+	Okay
+		Beunus Aires
+		Nan Madol
+		Mohenjo-Daro; Cultural; Enables building away from rivers; 
+		Amsterdam
+	Bad
+		Vilnius
+		Hong Kong
+		Preslav
+		Seoul
+		Jakarta
+		Lisbon

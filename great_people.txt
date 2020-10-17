@@ -1,0 +1,111 @@
+	Use 1 shot builders to explore
+	Combine district and commerical district
+	Maximize era scores
+
+	Founding cities
+		**Settle on luxury, sell to AI for 160+ gold, and buy settler by turn 12.
+		Note forest removed and it's 1 prod lost when founding city
+		Found on plains tile.  Ideally with luxury is best.
+
+	Improve vs remove
+		Improve in ancient era.
+		Medieval harvest non-food resources to rush districts and wonders.  Medival.
+		Medieval harvest food resources to get population 7 
+		Rain forests worth chopping, even for Brazil
+	City defence
+		**Ranged Attack == strongest ranged unit built (Not bombards)
+		*Don't upgrade walls; Build single strongest ranged unit
+		Defence value == (Garrisoned unit or StrongestGlobalUnit-10) + walls + capital
+
+	From Tom
+		Government plazas
+			+1 to adjacent districts
+			warlords throne; +20% production on taking a city
+
+Great People
+	Can spend faith or gold to purchase great people
+	Scientists
+		Great
+			Einstein
+			Carl Sagan
+			Galileo
+			Mary leaky
+			Stephanie Kwolek for space race
+		Good
+			Jankal; move for rainforest adjacency; scientists are invulnerable
+			Abdus Salam for space race
+			Darwin
+			Newton
+			Young
+		Okay
+			Aryabhata
+			Hypatia
+	Merchants
+		Great
+			Adam smith; best; buy him
+			Irene of Athens
+			Zhang Qian
+		Good
+			Giovanni de medici
+			Jakob Fugger
+			John Jacob
+			Helena
+			Raja
+		Okay
+			John rockerfeller if don't have oil
+			Estee lauder
+			Levi strauss
+			John spisbury
+	Engineers
+		Great
+			James Watts
+			Sergei Korolev
+			Werner von braun
+		Good
+			Filippo Brun..
+			Gustave eiffel
+			Isidore 
+			Nikola Tesla
+			Joseph Paxman
+			Jane Dew
+		Okay
+			Leonardo Divinchi
+			Ada lovelace
+			Bi Sheng
+			James st. george
+			Robbard Goddard
+		Bad
+			Alvar
+			Mimar Sinan
+			Charles Corba
+			Jon Robeling
+
+Districts
+	Take districts ASAP as cost increases with # of techs
+	Commerce > [Campus|Industrial] > Everything else
+	Capital: Campus first
+	Campus
+		[mountains|rainforests], capital, and other districts
+	Commercial
+		river, harbor, and other districts
+	*Industrial
+		Bonus for [mines|quaries]; Surrounded with hills
+		*Run production adjacency card
+		6 tile AoE for 2nd and 3rd tier buildings
+	Encampment
+		Place for defense
+	Aqueduct
+		Only build if not on fresh water
+	Entertainment
+		Place on low value tiles
+		6 tile AoE for 2nd and 3rd tier buildings
+	Holy sites
+		Fugedaboutit
+
+General
+	Trade routes strong, especially early game
+	Forget spies
+
+Governers
+	Victor
+		kkk

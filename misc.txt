@@ -1,0 +1,15 @@
+*Use 1 shot builders to explore
+*Chop before placing districts
+
+
+Improve vs remove
+	Improve in ancient era.
+	Medieval harvest non-food resources to rush districts and wonders.  Medival.
+	Medieval harvest food resources to get population 7 
+	Rain forests worth chopping, even for Brazil
+City defence
+	**Ranged Attack == strongest ranged unit built (Not bombards)
+	*Don't upgrade walls; Build single strongest ranged unit
+	Defence value == (Garrisoned unit or StrongestGlobalUnit-10) + walls + capital
+
+

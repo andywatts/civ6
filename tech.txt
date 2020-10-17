@@ -1,0 +1,34 @@
+Tech
+	Ancient
+		Granery for housing
+		Archery for barbs
+		Bronze for Iron and Encampment
+	Classical
+		Currency for Commerce District
+		Horseback riding for horseman
+	Medieval
+		Apprenticeship for Industrial district
+		Stirrups for knights
+		Education for universities
+	Renaisance
+		Gunpowder for niter
+		Printing press for Forbidden City
+		Astronomy for Potala palace - meh?
+	Industrial
+		Industrialization for factory and ruhr valley
+		Balistics for field cannons
+		Military science for cavalry
+		Economics for Big Ben
+	Modern
+		Chemistry for research labs (t3 science)
+		Electricity for powerplant (t3 production) and subs
+		Combustian for tanks
+	Atomic
+		Computers
+		Rocketry for space
+		Fission for nukes
+		Synthetic materials for helicopters
+		Planes not as strong as civ5
+	Information era
+		Telecommunication for nuclear subs
+		Science victory stuff

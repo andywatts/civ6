@@ -1,0 +1,24 @@
+Science Victory
+	Research Rocketry
+	Build Space Port
+	Resarch Satellites
+	Launch Earth Satellite
+	Launch Moon Landing
+	Gathering Storm
+		Nano technology
+		Launch Mars Colony
+		Research Samrt Materials
+		Launch Exoplanet expedition
+		Wait 50 turns
+		Build laser stations
+	Notes
+		Build multiple space ports for multiple laser stations
+		MerchantRepublic|Monarchy => Communism => Synthetic
+		Techs: Rocketry and Nuclear Fusion
+		Wonders
+			Mausoleum of Halicarnassus: Land tile adjacent to harbor
+			Rawr Valley: River and industrial zone
+		Great Scientists: Hypatia, Newton, Einstein
+		Great Engineers: Goddard, Korolev, von Braun
+
+

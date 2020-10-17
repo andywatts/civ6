@@ -1,0 +1,22 @@
+Pantheons
+	Important; Stays throughout the game.
+	Culture is good.
+Great Prophets
+	Can spend faith or gold to purchase great prophet
+	Deploy in stonehenge or holysite
+Worship belief (Shown first when founding)
+	Wat
+	Pagoda
+	Meeting house
+Follower belief
+	Religious community for housing
+	*Work ethic for production
+	Zen meditation for amenities
+Founder belief
+Enhancer belief
+	Defender of the faith
+	Crusade
+	Holy order
+Other
+	Use apostle to evangelize and get additional beliefs
+	Spread is 10 tiles and slow

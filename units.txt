@@ -1,0 +1,22 @@
+Units
+	Ranged 
+		_UNIT_          | _Tech_             | _Eureka_
+		Slinger         |                    |
+		Archer          | Archery            | Barb ranged kill
+		Crossbowman     | Machinery          | Three archers
+		Field cannon    | Balistics          | Two forts
+		Machine gun     | Advanced balistics | Two power plants
+	Melee
+		_UNIT_          | _Tech_             | _Eureka_
+		Warrior         |
+		Swordsman       | Iron Working       | Iron mine
+		Musketmen       | Gun powder         | Armory
+		Infantry        | Replacable parts   | Three musketmen
+		Machine gun     | Advanced balistics | Two power plants
+		Mech Infantry   | Satalites          | Great scientist
+	Bombard
+		_UNIT_          | _Tech_             | _Eureka_
+		Catapault       | Engineering        | Ancient walls
+		Bombard         | Metal casting      | Two crossbowman
+		Artilery        | Steel              | Coal mine
+		Rocket artilery | Guidance systems   | Kill fighter

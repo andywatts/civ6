@@ -1,0 +1,19 @@
+Civics cards
+	Economic is strongest
+	Military
+		Conscription for gold save
+		Retainers for amenities
+	Economy
+		Double yield > adjacency bonus;  Except prod adjacency with industrial district surrounded by mines.
+		*Rationalism; Build libraries|Universities|ScienceLabs; Best in game
+		Meritocracy: Culture for districts
+		Free market; Build market|bank|stockMarket
+		Liberalism; Amenity for 2 districts
+	Great People
+		Inspiration: Scientists
+		Traveling Merchants: Merchants
+		Invention: Engineers
+		Generals, merchants, and engineers
+
+
+

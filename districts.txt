@@ -1,0 +1,46 @@
+Process
+	1. Plan industrial zone considering dam, aqueduct, etc
+
+
+Government plazas
+	+1 to adjacent districts
+	warlords throne; +20% production on taking a city
+
+Harbor
+	+2 Next to city
+	x2 with shipyard
+
+Campus
+	[mountains|rainforests], capital, and other districts
+
+Commercial
+	river, harbor, and other districts
+
+*Industrial
+	TL;DR
+		Next to dam and aquaduct
+	+0.5 mines and lumberyard
+	+1 quarry, strategic resources, districts
+	+2 aqueduct, canal, and dams
+
+	6 tile AoE for 2nd and 3rd tier buildings
+	Craftsman card (Guilds) = +100%
+	Coal power plant (Industrialization) = +100%
+
+Encampment
+	Place for defense
+
+Aqueduct
+	Adjacent to city and mountain
+	Lakes, rivers, oasis work
+
+Entertainment
+	Place on low value tiles
+	6 tile AoE for 2nd and 3rd tier buildings
+
+Holy sites
+
+
+Other
+	First instance of district is cheapest
+	Take districts ASAP as cost increases with # of techs

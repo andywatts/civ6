@@ -1,0 +1,7 @@
+
+Faith
+	Pantheon
+		+Dance of the Aurora = Holy Site District gets +1 Faith from adjacent Tundra Tiles.
+	Follower
+		* +1% Production in cities for each follower of the Religion in that city.
+		Feed the world = Shrines and Temples provide Food equal to their intrinsic Faith output.

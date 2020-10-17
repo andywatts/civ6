@@ -1,0 +1,15 @@
+Magnus
+	Settlers
+
+Pingala
+	Science/Culture
+
+Liang
+	Build charge
+
+Amani The Diplomant
+	Prestige +2 loyalty in player cities for 9 tiles
+	Emissary +2 loyalty in non-player cities for 9 tiles
+	Promotor + 4 amenities
+
+

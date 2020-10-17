@@ -1,0 +1,17 @@
+Settle luxury, sell to AI for 160+ gold, and buy settler by turn 12.
+Grassland hills 2 food 1 production
+Great first ring, good second
+Hills
+Move <= 2 tiles
+
+
+Exploring
+	*Jungle is middle of map.
+	*Send warrior towards middle.
+	*Scouts to edge for tribal villages.
+
+
+Note
+	Forest removed and it's 1 prod lost when founding city
+
+
